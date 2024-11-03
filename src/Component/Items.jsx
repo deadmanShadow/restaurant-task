@@ -53,7 +53,7 @@ const Item = () => {
           <img
             src={burger}
             className="w-30 h-30 object-cover rounded-md mb-2"
-            style={{ width: "120px", height: "120px" }} // Inline style for fixed size
+            style={{ width: "120px", height: "120px" }}
             alt="Vegetable Burger"
           />
           <h4 className="text-xl font-semibold text-gray-800 text-center">

@@ -1,5 +1,6 @@
 import Banner from "./Component/Banner";
 import Culinary from "./Component/Culinary";
+import Form from "./Component/Form";
 import Items from "./Component/Items";
 import Navbar from "./Component/Navbar";
 
@@ -10,6 +11,7 @@ const Layout = () => {
       <Banner />
       <Culinary />
       <Items />
+      <Form />
     </div>
   );
 };
