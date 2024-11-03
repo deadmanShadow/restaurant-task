@@ -1,4 +1,4 @@
-# Figma Design to HTML Conversion (Restaurent) 🎨➡️🌐
+# Figma Design to HTML Conversion (Restaurant) 🎨➡️🌐
 
 ## Overview 🌟
 
