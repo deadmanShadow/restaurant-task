@@ -1,5 +1,6 @@
 import Banner from "./Component/Banner";
 import Culinary from "./Component/Culinary";
+import Footer from "./Component/Footer";
 import Form from "./Component/Form";
 import Items from "./Component/Items";
 import Navbar from "./Component/Navbar";
@@ -14,6 +15,7 @@ const Layout = () => {
       <Items />
       <Form />
       <Testimonial />
+      <Footer />
     </div>
   );
 };
