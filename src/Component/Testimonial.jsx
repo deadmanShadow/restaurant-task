@@ -30,7 +30,7 @@ function Testimonial() {
           WHAT SOME OF MY CUSTOMERS SAY
         </p>
         <div className="flex space-x-4 justify-end mt-4">
-          <button className="w-10 h-10 flex items-center justify-center bg-white shadow-lg hover:bg-gray-100 transition-colors duration-200">
+          <button className="w-10 h-10 flex items-center justify-center rounded-full bg-white shadow-lg hover:bg-gray-100 transition-colors duration-200">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-6 w-6 text-red-600"
@@ -65,7 +65,7 @@ function Testimonial() {
         </div>
       </motion.div>
       <motion.div
-        className="flex flex-col md:flex-row items-center bg-yellow-500 p-8 shadow-md rounded-lg"
+        className="flex flex-col md:flex-row items-center bg-yellow-500 p-8  shadow-md rounded-lg"
         initial="hidden"
         animate="visible"
         variants={testimonialVariants}
